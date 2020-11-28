@@ -4,4 +4,4 @@ A Jupyter Notebook that uses [GANs](https://en.wikipedia.org/wiki/Generative_adv
 
 The generator network is trained to product images of a celebrity face given a noise vector and the descriminator is trained as a regular classifier and used to improve generations as the training process occurrs
 
-[Jupyter Notebook](https://nbviewer.jupyter.org/github/SpicySyntax/Face-Generator/blob/master/dlnd_face_generation.ipynb)
+[View Jupyter Notebook](https://nbviewer.jupyter.org/github/SpicySyntax/Face-Generator/blob/master/dlnd_face_generation.ipynb)
